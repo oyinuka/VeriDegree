@@ -47,3 +47,10 @@ VeriDegree leverages the Clarity smart contract language on the Stacks blockchai
 - Logs verification requests with details (credential ID, verifier, timestamp).
 - Tracks verification outcomes for auditability.
 - Emits events for verification requests and completions.
+
+
+<!-- 
+CredentialNFT Contract
+CredentialAccessControl Contract
+VerificationRegistry Contract
+ -->
